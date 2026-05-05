@@ -102,12 +102,12 @@ pre: " <b> 1.1. </b> "
 
 - Tạo IAM Group `AdminGroup` với quyền `AdministratorAccess`.
 - Tạo IAM User và gán vào group.
-- 📸 _Ảnh minh chứng: danh sách IAM Users và Groups trong Console._
+- ![Ảnh minh chứng: danh sách IAM Users và Groups trong Console](/images/1-Worklog/1.1-Week1/iam-users-groups-console.png)
 
 **Lab01-04 — Hỗ trợ xác thực tài khoản:**
 
 - Thực hành liên hệ AWS Support để xác thực tài khoản khi cần.
-- 📸 _Ảnh minh chứng: màn hình tạo support case thành công._
+- ![Ảnh minh chứng: màn hình tạo support case thành công](/images/1-Worklog/1.1-Week1/support-case-success.png)
 
 **Lab07 — Thực hành AWS Budgets:**
 
