@@ -22,9 +22,9 @@ pre: " <b> 1.1. </b> "
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------------------------------------------------- |
 | 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                                                                                                                                                                                                                                                                                                                                                            | 20/04/2026   | 20/04/2026      | https://www.notion.so/Group-description-TP-HCM-347df829a730809a8f63d39505644917     |
 | 3   | - Module 01-01: Điện Toán Đám Mây Là Gì? <br> - Module 01-02: Điều Gì Tạo Nên Sự Khác Biệt Của AWS? <br> - Module 01-03: Bắt Đầu Hành Trình Lên Mây Như Thế Nào <br> - Module 01-04: Hạ Tầng Toàn Cầu Của AWS                                                                                                                                                                                                                                                                                                              | 21/04/2026   | 21/04/2026      | https://cloudjourney.awsstudygroup.com/                                             |
-| 4   | - Module 01-05: Công Cụ Quản Lý AWS Services <br> - Module 01-06: Tối Ưu Hóa Chi Phí Trên AWS và Làm Việc Với AWS Support <br> - Module 01-07: Thực Hành và Nghiên Cứu Bổ Sung <br> - **Thực hành:** <br>&emsp;+ Lab01-01: Tạo tài khoản AWS <br>&emsp;+ Lab01-02: Cài đặt Virtual MFA Device <br>&emsp;+ Lab01-03: Tạo admin group và admin user <br>&emsp;+ Lab01-04: Hỗ trợ xác thực tài khoản                                                                                                                          | 22/04/2026   | 22/04/2026      | https://cloudjourney.awsstudygroup.com/                                             |
-| 5   | - **Thực hành Budget:** <br>&emsp;+ Lab07-01: Tạo Budget bằng Template <br>&emsp;+ Lab07-02: Tạo Cost Budget Tutorial <br>&emsp;+ Lab07-03: Tạo Usage Budget <br>&emsp;+ Lab07-04: Tạo Reservation Instance (RI) Budget <br>&emsp;+ Lab07-05: Tạo Savings Plans Budget <br>&emsp;+ Lab07-06: Dọn dẹp Budgets <br> - **Thực hành Support:** <br>&emsp;+ Lab09-01: Các gói AWS Support <br>&emsp;+ Lab09-02: Các loại yêu cầu hỗ trợ <br>&emsp;+ Lab09-03: Thay đổi gói Support <br>&emsp;+ Lab09-04: Quản lý yêu cầu hỗ trợ | 23/04/2026   | 23/04/2026      | https://cloudjourney.awsstudygroup.com/                                             |
-| 6   | - Hoàn thành 5 nhiệm vụ nhận $200 credit: <br>&emsp;+ Launch EC2 Instance (+$20) <br>&emsp;+ Amazon Bedrock Playground (+$20) <br>&emsp;+ Set up AWS Budgets (+$20) <br>&emsp;+ Create Lambda Web App (+$20) <br>&emsp;+ Create RDS Database (+$20) <br> - Nghiên cứu bổ sung: AWS Well-Architected Framework                                                                                                                                                                                                              | 24/04/2026   | 24/04/2026      | https://000001.awsstudygroup.com/ <br> https://docs.aws.amazon.com/wellarchitected/ |
+| 4   | - Module 01-05: Công Cụ Quản Lý AWS Services <br> - Module 01-06: Tối Ưu Hóa Chi Phí Trên AWS và Làm Việc Với AWS Support <br> - Module 01-07: Thực Hành và Nghiên Cứu Bổ Sung <br> - **Thực hành:** <br>&emsp;+ Lab01-01: Tạo tài khoản AWS <br>&emsp;+ Lab01-02: Cài đặt Virtual MFA Device <br>&emsp;+ Lab01-03: Tạo admin group và admin user <br>&emsp;+ Lab01-04: Hỗ trợ xác thực tài khoản                                                                                                                          | 22/04/2026   | 22/04/2026      | https://000001.awsstudygroup.com/ <br> https://000002.awsstudygroup.com/                                            |                                        |
+| 5   | - **Thực hành Budget:** <br>&emsp;+ Lab07-01: Tạo Budget bằng Template <br>&emsp;+ Lab07-02: Tạo Cost Budget Tutorial <br>&emsp;+ Lab07-03: Tạo Usage Budget <br>&emsp;+ Lab07-04: Tạo Reservation Instance (RI) Budget <br>&emsp;+ Lab07-05: Tạo Savings Plans Budget <br>&emsp;+ Lab07-06: Dọn dẹp Budgets <br> | 23/04/2026   | 23/04/2026      | https://000001.awsstudygroup.com/                                            |
+| 6   | - Hoàn thành 5 nhiệm vụ nhận $200 credit: <br>&emsp;+ Launch EC2 Instance (+$20) <br>&emsp;+ Amazon Bedrock Playground (+$20) <br>&emsp;+ Set up AWS Budgets (+$20) <br>&emsp;+ Create Lambda Web App (+$20) <br>&emsp;+ Create RDS Database (+$20) <br> - Nghiên cứu : AWS Well-Architected Framework                                                                                                                                                                                                              | 24/04/2026   | 24/04/2026      | https://000001.awsstudygroup.com/ <br> https://docs.aws.amazon.com/wellarchitected/ |
 
 ---
 
@@ -119,14 +119,6 @@ pre: " <b> 1.1. </b> "
 - Lab07-06: Xóa toàn bộ Budgets sau khi thực hành (clean up).
 - 📸 _Ảnh minh chứng: danh sách các Budgets đã tạo trong AWS Budgets Console._
 
-**Lab09 — Thực hành AWS Support:**
-
-- Lab09-01: Tìm hiểu và so sánh các gói Support (Basic, Developer, Business, Enterprise).
-- Lab09-02: Phân biệt các loại yêu cầu hỗ trợ (Account & billing, Technical...).
-- Lab09-03: Thực hành thay đổi gói Support.
-- Lab09-04: Tạo, theo dõi và quản lý support case.
-- 📸 _Ảnh minh chứng: màn hình tạo support case và trạng thái case._
-
 **5 nhiệm vụ nhận $200 credit:**
 
 - **Task 1 — Launch EC2 Instance (+$20):**
@@ -173,22 +165,6 @@ pre: " <b> 1.1. </b> "
 - Gửi AWS Support case (Account & billing > Bedrock Allowlisting) và chờ phê duyệt trong 24h.
 - Thực hành nhiều lần trên Console để quen với giao diện.
 - Đọc lại tài liệu từng loại Budget và thực hành lần lượt theo thứ tự lab.
-
----
-
-#### Minh chứng
-
-- 📸 AWS Console sau khi đăng nhập lần đầu
-- 📸 $100 credit hiển thị trong Billing Console
-- 📸 MFA đã kích hoạt thành công
-- 📸 IAM Users và Groups đã tạo
-- 📸 Danh sách Budgets đã tạo (Cost, Usage, RI, Savings Plans)
-- 📸 Support case đã tạo thành công
-- 📸 EC2 instance ở trạng thái running (Task 1)
-- 📸 Bedrock Playground response (Task 2)
-- 📸 Lambda function đã tạo (Task 4)
-- 📸 RDS database Available (Task 5)
-- 📸 $200 credit đầy đủ trong Billing Console
 
 ---
 
