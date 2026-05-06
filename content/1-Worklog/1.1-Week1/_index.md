@@ -9,40 +9,40 @@ pre: " <b> 1.1. </b> "
 ### Week 1 Objectives:
 
 - Get familiar with the internship environment and members of the First Cloud Journey program.
-- Understand fundamental concepts of Cloud Computing and the AWS service ecosystem.
-- Gain a clear understanding of AWS global infrastructure, management tools, and cost optimization strategies.
-
-- Create an AWS Free Tier 2025 account and receive the full $200 credit.
-- Complete hands-on labs related to account setup, security, and budget management.
+- Grasp basic concepts of Cloud Computing and the AWS service ecosystem.
+- Understand AWS Global Infrastructure, management tools, and cost optimization.
+- Create an AWS Free Tier 2025 account and successfully receive the $200 credit.
+- Complete hands-on labs regarding account setup, security, and budget management.
 
 ---
 
-### Weekly Tasks:
+### Tasks to be Implemented This Week:
 
-| Day | Tasks | Start Date | End Date | Resources |
-|-----|------|------------|----------|-----------|
-| 2 | - Get familiar with FCJ members <br> - Review internship rules and regulations | 20/04/2026 | 20/04/2026 | https://www.notion.so/Group-description-TP-HCM-347df829a730809a8f63d39505644917 |
-| 3 | - Module 01-01: What is Cloud Computing? <br> - Module 01-02: What Makes AWS Different? <br> - Module 01-03: How to Start Your Cloud Journey <br> - Module 01-04: AWS Global Infrastructure | 21/04/2026 | 21/04/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Module 01-05: AWS Service Management Tools <br> - Module 01-06: Cost Optimization & Working with AWS Support <br> - Module 01-07: Practice and Additional Research <br> - **Hands-on:** <br>&nbsp;&nbsp;+ Lab01-01: Create AWS Account <br>&nbsp;&nbsp;+ Lab01-02: Set up Virtual MFA Device <br>&nbsp;&nbsp;+ Lab01-03: Create Admin Group and Admin User <br>&nbsp;&nbsp;+ Lab01-04: Account Verification Support | 22/04/2026 | 22/04/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - **Budget Practice:** <br>&nbsp;&nbsp;+ Lab07-01: Create Budget from Template <br>&nbsp;&nbsp;+ Lab07-02: Create Cost Budget <br>&nbsp;&nbsp;+ Lab07-03: Create Usage Budget <br>&nbsp;&nbsp;+ Lab07-04: Create Reserved Instance Budget <br>&nbsp;&nbsp;+ Lab07-05: Create Savings Plans Budget <br>&nbsp;&nbsp;+ Lab07-06: Clean up Budgets <br> - **Support Practice:** <br>&nbsp;&nbsp;+ Lab09-01: AWS Support Plans <br>&nbsp;&nbsp;+ Lab09-02: Types of Support Cases <br>&nbsp;&nbsp;+ Lab09-03: Change Support Plan <br>&nbsp;&nbsp;+ Lab09-04: Manage Support Cases | 23/04/2026 | 23/04/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Complete 5 tasks to earn $200 credit: <br>&nbsp;&nbsp;+ Launch EC2 Instance (+$20) <br>&nbsp;&nbsp;+ Amazon Bedrock Playground (+$20) <br>&nbsp;&nbsp;+ Set up AWS Budgets (+$20) <br>&nbsp;&nbsp;+ Create Lambda Web App (+$20) <br>&nbsp;&nbsp;+ Create RDS Database (+$20) <br> - Additional research: AWS Well-Architected Framework | 24/04/2026 | 24/04/2026 | https://000001.awsstudygroup.com/ <br> https://docs.aws.amazon.com/wellarchitected/ |
+| Day | Task | Start Date | Completion Date | Documentation/Source |
+| :--- | :--- | :--- | :--- | :--- |
+| Mon | - Meet and greet FCJ members <br> - Read and note down regulations and rules at the internship unit | 2026-04-20 | 2026-04-20 | [Notion Group Description](https://www.notion.so/Group-description-TP-HCM-347df829a730809a8f63d39505644917) |
+| Tue | - Module 01-01: What is Cloud Computing? <br> - Module 01-02: What Makes AWS Different? <br> - Module 01-03: How to Start the Journey to the Cloud <br> - Module 01-04: AWS Global Infrastructure | 2026-04-21 | 2026-04-21 | [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com/) |
+| Wed | - Module 01-05: AWS Service Management Tools <br> - Module 01-06: Cost Optimization on AWS and Working with AWS Support <br> - Module 01-07: Practice and Additional Research <br> - **Hands-on Practice:** <br>&emsp;+ Lab01-01: Create an AWS Account <br>&emsp;+ Lab01-02: Set up Virtual MFA Device <br>&emsp;+ Lab01-03: Create Admin Group and Admin User <br>&emsp;+ Lab01-04: Account Verification Support | 2026-04-22 | 2026-04-22 | [Lab Source 1](https://000001.awsstudygroup.com/) <br> [Lab Source 2](https://000002.awsstudygroup.com/) |
+| Thu | - **Budget Practice:** <br>&emsp;+ Lab07-01: Create Budget using Templates <br>&emsp;+ Lab07-02: Cost Budget Tutorial <br>&emsp;+ Lab07-03: Create Usage Budget <br>&emsp;+ Lab07-04: Create Reservation Instance (RI) Budget <br>&emsp;+ Lab07-05: Create Savings Plans Budget <br>&emsp;+ Lab07-06: Budget Cleanup | 2026-04-23 | 2026-04-23 | [Lab Source 1](https://000001.awsstudygroup.com/) |
+| Fri | - Complete 5 tasks to receive $200 credit: <br>&emsp;+ Launch EC2 Instance (+$20) <br>&emsp;+ Amazon Bedrock Playground (+$20) <br>&emsp;+ Set up AWS Budgets (+$20) <br>&emsp;+ Create Lambda Web App (+$20) <br>&emsp;+ Create RDS Database (+$20) <br> - Research: AWS Well-Architected Framework | 2026-04-24 | 2026-04-24 | [Lab Source 1](https://000001.awsstudygroup.com/) <br> [AWS Well-Architected](https://docs.aws.amazon.com/wellarchitected/) |
+
 ---
 
-### Week 1 Results:
+### Week 1 Achievements:
 
 #### Knowledge
 
 **Module 01-01 — What is Cloud Computing?**
 
-- Understand Cloud Computing concepts: on-demand, pay-as-you-go.
-- Differentiate service models: IaaS, PaaS, SaaS.
-- Understand deployment models: Public Cloud, Private Cloud, Hybrid Cloud.
+- Understood Cloud Computing concepts: on-demand, pay-as-you-go.
+- Distinguished between service models: IaaS, PaaS, SaaS.
+- Distinguished between deployment models: Public Cloud, Private Cloud, Hybrid Cloud.
 
 **Module 01-02 — What Makes AWS Different?**
 
-- AWS is the world’s leading cloud provider with 200+ services.
-- Key advantages: high availability, security, flexibility, cost efficiency.
-- Understand core service groups:
+- Recognized AWS as the world's largest cloud provider with over 200 services.
+- Key advantages: High reliability, security, flexibility, and cost-effectiveness.
+- Gained knowledge of main service groups:
   - Compute (EC2, Lambda)
   - Storage (S3, EBS)
   - Networking (VPC, Security Group)
@@ -51,148 +51,126 @@ pre: " <b> 1.1. </b> "
 
 **Module 01-03 — How to Start Your Cloud Journey**
 
-- Understand the AWS learning path from beginner to advanced.
-- Learn about AWS Free Tier 2025:
-  - $100 credit upon account creation
-  - Additional $100 from completing 5 tasks
-  - Two options: Free Plan (6-month protection) and Paid Plan (full access)
+- Understood the AWS learning roadmap from basic to advanced.
+- Gained details on the AWS Free Tier 2025 program:
+  - $100 credit immediately upon account creation.
+  - An additional $100 from 5 practical tasks.
+  - Two options: Free Plan (6-month protection) and Paid Plan (Full service access).
 
 **Module 01-04 — AWS Global Infrastructure**
 
-- AWS operates across multiple Regions and Availability Zones worldwide.
-- Understand Region, AZ, and Edge Location concepts.
-- Learn how to choose the appropriate Region (latency, cost, compliance).
+- Learned about AWS presence across multiple Regions and Availability Zones (AZs) worldwide.
+- Understood the concepts of Region, AZ, and Edge Location.
+- Learned how to choose the right Region based on latency, cost, and legal compliance.
 
 **Module 01-05 — AWS Service Management Tools**
 
-- AWS Management Console (web interface)
-- AWS CLI (command line)
-- AWS SDK (integration with code)
-- AWS CloudShell
+- AWS Management Console (Web interface).
+- AWS CLI (Command line).
+- AWS SDK (Code integration).
+- AWS CloudShell.
 
-**Module 01-06 — Cost Optimization & AWS Support**
+**Module 01-06 — Cost Optimization and AWS Support**
 
-- Cost management tools: AWS Budgets, Cost Explorer, Cost & Usage Reports.
-- Cost-saving strategies: Reserved Instances, Savings Plans, Spot Instances.
+- Cost management tools: AWS Budgets, Cost Explorer, Cost & Usage Report.
+- Saving strategies: Reserved Instances, Savings Plans, Spot Instances.
 - AWS Support plans: Basic, Developer, Business, Enterprise.
 - How to create and manage support cases.
 
 **Additional Research — AWS Well-Architected Framework**
 
-- 6 pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, Sustainability.
+- 6 Pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, Sustainability.
 
 ---
 
-#### Hands-on Practice
+#### Practice
 
 **Lab01-01 — Create AWS Account:**
 
-- Access [aws.amazon.com/free](https://aws.amazon.com/free) and create a new account.
-- Select **Paid Plan** for full service access.
-- Receive $100 credit after successful account creation.
-- 📸 _Evidence: AWS Console after first login._  
-- 📸 _Evidence: Billing Console showing $100 credit._
+- Accessed [aws.amazon.com/free](https://aws.amazon.com/free) and created a new account.
+- Selected **Paid Plan** for full service access.
+- Received $100 credit automatically after successful creation.
+- ![Proof: AWS Console screen after first login](/images/1-Worklog/1.1-Week1/aws-billing-100-credit.png)
 
 **Lab01-02 — Set up Virtual MFA Device:**
 
-- Enable MFA for root account using an authenticator app.
-- 📸 _Evidence: MFA successfully enabled screen._
+- Activated MFA for the root account using an Authenticator app.
+- ![Proof: MFA activation confirmation screen](/images/1-Worklog/1.1-Week1/mfa-activated.png)
 
-**Lab01-03 — Create Admin Group and User:**
+**Lab01-03 — Create Admin Group and Admin User:**
 
-- Create IAM Group `AdminGroup` with `AdministratorAccess`.
-- Create IAM User and assign to group.
-- 📸 _Evidence: IAM Users and Groups in Console._
+- Created IAM Group `AdminGroup` with `AdministratorAccess` policy.
+- Created IAM User and assigned it to the group.
+- ![Proof: List of IAM Users and Groups in Console](/images/1-Worklog/1.1-Week1/iam-users-groups-console.png)
 
 **Lab01-04 — Account Verification Support:**
 
-- Practice contacting AWS Support for account verification.
-- 📸 _Evidence: Support case created successfully._
+- Practiced contacting AWS Support for account verification when necessary.
+- ![Proof: Support case creation success screen](/images/1-Worklog/1.1-Week1/support-case-success.png)
 
 **Lab07 — AWS Budgets Practice:**
 
-- Create various budgets: Cost, Usage, RI, Savings Plans.
-- Configure email alerts.
-- Clean up resources after practice.
-- 📸 _Evidence: Budgets list in AWS Console._
+- Lab07-01: Created a quick Budget using existing Templates.
+- Lab07-02: Created a Cost Budget with email alert thresholds.
+- Lab07-03: Created a Usage Budget based on usage units (hours, GB...).
+- Lab07-04: Created an RI Budget to track Reserved Instances.
+- Lab07-05: Created a Savings Plans Budget.
+- Lab07-06: Deleted all Budgets after practice (cleanup).
+- 📸 _Proof: List of created Budgets in the AWS Budgets Console._
 
-**Lab09 — AWS Support Practice:**
-
-- Explore support plans and case types.
-- Create and manage support cases.
-- 📸 _Evidence: Support case dashboard._
-
----
-
-#### $200 Credit Tasks
+**5 Tasks to Receive $200 Credit:**
 
 - **Task 1 — Launch EC2 Instance (+$20):**
-  - Create EC2 instance `Test Instance`
-  - Configure Security Group and key pair (`first-kp`)
-  - Terminate after use (clean up)
-  - 📸 _Evidence: EC2 instance running_
+  - Created an EC2 instance named `Test Instance`, selected AMI, and configured Security Group.
+  - Created key pair `first-kp` (RSA, .pem).
+  - Terminated instance after completion (cleanup).
+  - 📸 _Proof: EC2 instance in 'running' state._
 
 - **Task 2 — Amazon Bedrock Playground (+$20):**
-  - Use **Claude 3 Haiku** model
-  - Test prompts
-  - 📸 _Evidence: Bedrock response_
+  - Accessed Bedrock Console, selected **Claude 3 Haiku** model.
+  - Submitted use case details and tested a prompt.
+  - 📸 _Proof: Response results from Bedrock Playground._
 
 - **Task 3 — Set up AWS Budgets (+$20):**
-  - Create cost budget with alerts
-  - 📸 _Evidence: Budget created_
+  - Created a cost budget with email notifications.
+  - 📸 _Proof: Budget successfully created._
 
 - **Task 4 — Create Lambda Web App (+$20):**
-  - Create Lambda function from blueprint
-  - Delete after use
-  - 📸 _Evidence: Lambda created_
+  - Created Lambda function `http-function-url-tutorial` from a blueprint.
+  - Deleted function after completion (cleanup).
+  - 📸 _Proof: Lambda function successfully created._
 
 - **Task 5 — Create RDS Database (+$20):**
-  - Create Aurora PostgreSQL database
-  - Delete after use
-  - 📸 _Evidence: RDS Available_
+  - Created Aurora (PostgreSQL Compatible) database using 'Easy Create'.
+  - Deleted DB instance and cluster after completion (cleanup).
+  - 📸 _Proof: RDS database in 'Available' state._
 
-- 📸 _Final Evidence: Billing Console showing full $200 credit_
+- 📸 _Overall Proof: AWS Billing Console showing the full $200 credit._
 
 ---
 
-#### Challenges & Solutions
+#### Challenges and Solutions
 
 **Challenges:**
 
-- Confusion between Free Plan and Paid Plan.
-- Authorization error when accessing Amazon Bedrock.
-- Difficulty navigating AWS Console initially.
-- Confusion between different Budget types.
+- Did not fully understand the difference between Free Plan and Paid Plan during account creation.
+- Authorization error when activating Amazon Bedrock (Claude 3 Haiku).
+- Initially unfamiliar with the AWS Console interface.
+- Confusion between different Budget types (Cost, Usage, RI, Savings Plans).
 
 **Solutions:**
 
-- Reviewed documentation before account setup.
-- Submitted AWS Support case for Bedrock allowlisting.
-- Practiced regularly to become familiar with the Console.
-- Studied each Budget type and practiced step-by-step.
-
----
-
-#### Evidence
-
-- 📸 AWS Console (first login)
-- 📸 $100 credit in Billing
-- 📸 MFA enabled
-- 📸 IAM setup
-- 📸 Budgets created
-- 📸 Support cases
-- 📸 EC2 running
-- 📸 Bedrock response
-- 📸 Lambda created
-- 📸 RDS available
-- 📸 Full $200 credit
+- Carefully read the Free Plan vs. Paid Plan comparison before registering.
+- Submitted an AWS Support case (Account & billing > Bedrock Allowlisting) and waited 24h for approval.
+- Practiced repeatedly on the Console to get used to the UI.
+- Re-read the documentation for each Budget type and followed the labs step-by-step.
 
 ---
 
 #### Lessons Learned
 
-- Gained a solid understanding of Cloud Computing and AWS ecosystem.
-- Always enable MFA and use IAM users instead of root account.
-- Set up Budgets early to avoid unexpected costs.
-- Always clean up resources after use.
-- AWS Well-Architected Framework is essential for designing cloud systems.
+- Understood the Cloud Computing model and why AWS is currently the most popular platform.
+- Always **enable MFA** and use an IAM User instead of the root account for daily tasks.
+- **Set up Budgets immediately** after account creation to avoid unexpected costs.
+- Always **clean up resources** after practice (terminate EC2, delete RDS, delete Lambda).
+- The AWS Well-Architected Framework is a vital guide when designing systems on the cloud.
